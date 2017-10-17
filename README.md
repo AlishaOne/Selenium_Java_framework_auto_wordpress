@@ -12,6 +12,6 @@ add a comment for fix24
 <<<<<<< HEAD
 add a comment for fix25
 =======
-add a comment for fix bug 1000
+add a comment for fixing bug 1000
 >>>>>>> fix24
 
